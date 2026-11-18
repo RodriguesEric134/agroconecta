@@ -1,3 +1,9 @@
+> **Repositórios por disciplina** — o projeto foi separado em dois repositórios para a entrega:
+> - Big Data Architecture & Data Integration → [agroconecta-bigdata](https://github.com/RodriguesEric134/agroconecta-bigdata)
+> - Robotic Process Automation → [agroconecta-rpa](https://github.com/RodriguesEric134/agroconecta-rpa)
+>
+> Este repositório reúne os dois e segue como referência do projeto completo.
+
 # AgroConecta — Big Data & RPA
 
 Plataforma de apoio à decisão para pequenos produtores rurais (Global Solution 2026.2 — CitizenTech).
