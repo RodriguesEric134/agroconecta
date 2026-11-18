@@ -9,6 +9,14 @@
 Plataforma de apoio à decisão para pequenos produtores rurais (Global Solution 2026.2 — CitizenTech).
 ODS 2 (Fome Zero e Agricultura Sustentável) e ODS 13 (Ação Contra a Mudança do Clima).
 
+## Equipe
+
+| Integrante | RM |
+|---|---|
+| Eric de Carvalho Rodrigues | RM550249 |
+| Renato Izumi Ichikawa | RM99242 |
+| Bernardo Pinto Rocha | RM99209 |
+
 Este repositório contém os componentes de **Big Data Architecture & Data Integration** e
 **Robotic Process Automation**.
 
