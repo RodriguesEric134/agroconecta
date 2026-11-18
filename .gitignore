@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+
+# Segredos
+.env
+*.env
+!.env.example
+
+# Dados gerados em runtime
+bigdata/chegada/*
+!bigdata/chegada/.gitkeep
+bigdata/airflow/logs/
+bigdata/airflow/plugins/
+rpa/logs/*
+!rpa/logs/.gitkeep
+rpa/data/*
+!rpa/data/.gitkeep
+
+# IDE / SO
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
