@@ -1,8 +1,9 @@
-> **Repositórios por disciplina** — o projeto foi separado em dois repositórios para a entrega:
+> **Repositórios por disciplina** — o projeto foi separado em três repositórios para a entrega:
 > - Big Data Architecture & Data Integration → [agroconecta-bigdata](https://github.com/RodriguesEric134/agroconecta-bigdata)
 > - Robotic Process Automation → [agroconecta-rpa](https://github.com/RodriguesEric134/agroconecta-rpa)
+> - Project-Based Maker Lab → [agroconecta-makerlab](https://github.com/RodriguesEric134/agroconecta-makerlab) (robô de campo com TinyML + LLM)
 >
-> Este repositório reúne os dois e segue como referência do projeto completo.
+> Este repositório reúne os três e segue como referência do projeto completo.
 
 # AgroConecta — Big Data & RPA
 
@@ -37,6 +38,7 @@ Este repositório contém os componentes de **Big Data Architecture & Data Integ
 |---|---|
 | [bigdata/](bigdata/README.md) | DAG Airflow, coletores, notebooks Databricks (Bronze/Prata/Ouro), 5 consultas SQL |
 | [rpa/](rpa/README.md) | Robô de cotações em **n8n** (Supabase + Telegram), schema SQL, BPMN e versão Python de referência |
+| [makerlab/](makerlab/README.md) | Robô de campo no **Wokwi** (ESP32): TinyML embarcado, LLM via n8n, peça 3D e [vídeo](https://youtu.be/akfVlb_59Rs) |
 
 ## Fontes de dados
 
